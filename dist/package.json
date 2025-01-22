@@ -1,0 +1,31 @@
+{
+  "name": "fp-html",
+  "version": "1.0.0",
+  "description": "Write HTML in Javascript",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabrv/fp-html.git"
+  },
+  "keywords": [
+    "HTML",
+    "Javavascript",
+    "Typescript"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "author": "fabrv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabrv/fp-html/issues"
+  },
+  "homepage": "https://github.com/fabrv/fp-html#readme",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "LICENSE",
+    "README.md"
+  ]
+}
